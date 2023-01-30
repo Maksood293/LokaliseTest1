@@ -1,4 +1,4 @@
-export const common = {
+ var common = {
   "COMMON_OPTIONAL": "Optional",
   "COMMON_NA": "N/A",
   "COMMON_AND": "and",
